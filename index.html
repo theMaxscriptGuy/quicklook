@@ -1,17 +1,15 @@
 <head>
-    <h1 style = "background-color: burlywood;">
+    <h1 style = "background-color: rgb(222, 222, 222);">
         Quick Look -> Unity to Web AR
     </h1>
 </head>
 
-<body style="background-color: aliceblue;">
+<body style="background-color: rgb(85, 85, 85);">
     <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-    <div style="background-color: darkcyan;">
-        iOS users:
-        <br>
+    <div style="background-color: rgb(222, 222, 222);width: max-content;">
+        <h2>iOS users:</h2>
         Click on the teapot image to take a quick-look at the 3d model.
-    </div>
-    <div>
+        <br>
         Teapot model:
         <br>
         <a rel="ar" href="https://firebasestorage.googleapis.com/v0/b/quicklook-68528.appspot.com/o/Teapot.usdz?alt=media&token=99b8fb9f-99dc-4f40-aa19-8e0644156912">
@@ -19,9 +17,8 @@
         </a>
     </div>
     <br>
-    <div style="background-color: cyan;">
-        Android users:
-        <br>
+    <div style="background-color: rgb(222, 222, 222); width: max-content;">
+        <h2>Android users:</h2>
         Click on the teapot image to take a quick-look at the 3d model.
         <br>
         <model-viewer src="./teapot.glb" alt="A 3D model of a teapot" ar ar-modes="webxr scene-viewer quick-look" environment-image="neutral" auto-rotate camera-controls></model-viewer>
