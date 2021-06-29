@@ -6,3 +6,5 @@ cupcake model:
 "Cupcakes" (https://skfb.ly/6zSHG) by ¡Jacques is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 batmobile:
 "2005 Batmobile (Tumbler)" (https://skfb.ly/68FUE) by sam146 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+football:
+"Football" (https://skfb.ly/6TRXz) by RED2000 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
